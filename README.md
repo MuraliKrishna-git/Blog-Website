@@ -9,6 +9,6 @@ In the .env file assigna avariable named MONGODB_URI to the link and save it.
 And then you can use daabase using mongodb.
 
 
-Any forther issues in code anr any doubts please feel free to email me.
+Any further issues in code anr any doubts please feel free to email me.
 
 Mail-ID : muralikrishna.professional2@gmail.com
